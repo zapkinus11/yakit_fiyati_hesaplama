@@ -1,0 +1,15 @@
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\yakit.csproj.AssemblyReference.cache
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\MainWindow.g.cs
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\App.g.cs
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\MainWindow.baml
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\yakit.Properties.Resources.resources
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\yakit.csproj.GenerateResource.cache
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\yakit.csproj.CoreCompileInputs.cache
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\bin\Debug\Yakıtını Hesapla.exe.config
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\bin\Debug\Yakıtını Hesapla.exe
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\bin\Debug\Yakıtını Hesapla.pdb
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\Yakıtını Hesapla_MarkupCompile.cache
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\Yakıtını Hesapla_MarkupCompile.lref
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\Yakıtını Hesapla.g.resources
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\Yakıtını Hesapla.exe
+C:\Users\excalibur\Desktop\Okul\c#\Bahar Dönemi\yakitHesapla\yakit\yakit\obj\Debug\Yakıtını Hesapla.pdb

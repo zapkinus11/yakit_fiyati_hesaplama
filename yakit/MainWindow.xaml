@@ -1,0 +1,23 @@
+﻿<Window x:Class="yakit.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:yakit"
+        mc:Ignorable="d"
+        Title="Yakıtını Hesapla" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock Text="Gidilen Kilometre:" Margin="0,0,0,5"/>
+        <TextBox x:Name="kilometreTextBox" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Ortalama Yakıt Tüketimi (litre/100 km):" Margin="0,0,0,5"/>
+        <TextBox x:Name="yakitTuketimiTextBox" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Güncel Yakıt Fiyatı (TL/litre):" Margin="0,0,0,5"/>
+        <TextBox x:Name="yakitFiyatiTextBox" Margin="0,0,0,10"/>
+
+        <Button Content="Yakıt Hesapla" Click="HesaplaButton_Click" Margin="0,0,0,20"/>
+
+        <Label x:Name="sonucLabel" FontWeight="Bold"/>
+    </StackPanel>
+</Window>
